@@ -10,6 +10,9 @@ https://github.com/DovAmir/awesome-design-patterns
 ## Videos
 - Christopher Okhravi : https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
+### UML
+- FreeCodeCamp UML diagrams full course : https://www.youtube.com/watch?v=WnMQ8HlmeXc
+
 ## Books
 ### Most referenced - Legacy
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides :

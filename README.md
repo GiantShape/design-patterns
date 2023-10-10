@@ -25,3 +25,7 @@
 
 5. Tips
    - [Gatech | Youtube - Class Diagram: Creation Tips](https://www.youtube.com/watch?v=BXnfVqJLyp4&list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ&index=22)
+
+### Alternative content
+- Lucid software - https://www.youtube.com/watch?v=6XrL5jXmTwM
+- Geekific - https://www.youtube.com/watch?v=sN2_CoB_kbw (0:00 -> 8:12)

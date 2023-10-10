@@ -29,3 +29,8 @@
 ### Alternative content
 - Lucid software - https://www.youtube.com/watch?v=6XrL5jXmTwM
 - Geekific - https://www.youtube.com/watch?v=sN2_CoB_kbw (0:00 -> 8:12)
+
+### Comments
+Lectures total duration <20min.
+Skip 1 and 2 if already familiar with class representation.
+The video from Lucid is a good alternative!

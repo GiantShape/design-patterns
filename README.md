@@ -35,3 +35,6 @@
 Lectures total duration <20min.
 Skip 1 and 2 if already familiar with class representation.
 The video from Lucid is a good alternative!
+
+## Practice
+- Relationships quizz : https://tally.so/r/n9ZOgY
